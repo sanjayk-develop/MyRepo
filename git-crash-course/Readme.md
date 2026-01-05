@@ -2,7 +2,7 @@
 
 #branches
 
-#remote
+#remotecd 
 
 #stashing
 
